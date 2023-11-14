@@ -8,4 +8,5 @@ pystackreg==0.2.7
 scikit-image==0.22.0
 scipy==1.11.3
 tifffile==2023.9.26
+tifftools==1.4.0
 tqdm==4.66.1
